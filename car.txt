@@ -1,0 +1,16 @@
+nome_auto: VARCHAR(50) - NOT NULL
+chilometri_effettuati: DECIMALI(6,3) NOT NULL
+stato_della_macchina: VARCHAR(30)
+marca:  VARCHAR(30) - NOT NULL
+colore: VARCHAR(20)
+trazione: VARCHAR (20)
+cambio_delle_marce: VARCAHR (20)
+tipo_di_carburante: VARCHAR(25)
+prezzo: DECIMALI(6,3)
+consumo_della_macchina: FLOAT(4,2)
+accessori_presenti: TEXT
+categoria:  VARCHAR(20)
+modello:    VARCHAR(30)
+anno_di_costruzione: YEAR
+
+
